@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @crappier
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me : 2039216364@qq.com
 
 <!---
